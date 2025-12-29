@@ -5,8 +5,8 @@ import requests
 from ta.volume import VolumeWeightedAveragePrice
 
 # 🔐 Pegamos do GitHub Secrets
-BOT_TOKEN = os.environ["BOT_TOKEN"]
-CHAT_ID   = os.environ["CHAT_ID"]
+BOT_TOKEN = os.environ["8291766584:AAHLiT86jqh325DrNtHSiMF45Wi2yjphj3w"]
+CHAT_ID   = os.environ["1051797498"]
 
 YM  = "YM=F"
 VIX = "^VIX"
