@@ -2,7 +2,7 @@ name: Dow Bot
 
 on:
   schedule:
-    - cron: "27 13 * * 1-5"
+    - cron: "27 14 * * 1-5"
   workflow_dispatch:
 
 jobs:
